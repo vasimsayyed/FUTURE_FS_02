@@ -47,11 +47,11 @@ export default function Footer() {
             <h4 className="text-lg font-bold mb-4">Install App</h4>
             <p className="text-gray-600 mb-2">From App Store or Google Play</p>
             <div className="flex space-x-2 mb-4">
-              <img src='/images/pay/play.jpg' alt="App Store" className="border rounded-md h-12" />
-              <img src='/images/pay/app.jpg' alt="Google Play" className="border rounded-md h-12" />
+              <img src='../images/pay/play.jpg' alt="App Store" className="border rounded-md h-12" />
+              <img src='../images/pay/app.jpg' alt="Google Play" className="border rounded-md h-12" />
             </div>
             <p className="text-gray-600 mb-2">Secured Payment Gateways</p>
-            <img src='/images/pay/pay.png' alt="Payment Gateways" className="h-8" />
+            <img src='../images/pay/pay.png' alt="Payment Gateways" className="h-8" />
           </div>
         </div>
         <div className="text-center text-gray-500 border-t pt-6 mt-10">

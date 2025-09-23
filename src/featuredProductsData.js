@@ -6,7 +6,7 @@ export const featuredProducts = [
     name: 'Cartoon Astronaut T-Shirt',
     price: 78,
     rating: 5,
-    image: '/images/products/f1.jpg',
+    image: '../images/products/f1.jpg',
   },
   {
     id: 102,
@@ -14,7 +14,7 @@ export const featuredProducts = [
     name: 'Green Leaf Pattern Shirt',
     price: 65,
     rating: 5,
-    image: '/images/products/f2.jpg',
+    image: '../images/products/f2.jpg',
   },
   {
     id: 103,
@@ -22,7 +22,7 @@ export const featuredProducts = [
     name: 'Rose Floral Summer Shirt',
     price: 72,
     rating: 5,
-    image: '/images/products/f3.jpg',
+    image: '../images/products/f3.jpg',
   },
   {
     id: 104,
@@ -30,7 +30,7 @@ export const featuredProducts = [
     name: 'White Flower T-Shirt',
     price: 85,
     rating: 5,
-    image: '/images/products/f4.jpg',
+    image: '../images/products/f4.jpg',
   },
   {
     id: 105,
@@ -38,7 +38,7 @@ export const featuredProducts = [
     name: 'Violet Blossom T-Shirt',
     price: 92,
     rating: 5,
-    image: '/images/products/f5.jpg',
+    image: '../images/products/f5.jpg',
   },
   {
     id: 106,
@@ -46,7 +46,7 @@ export const featuredProducts = [
     name: 'Two-Tone Denim Jacket',
     price: 115,
     rating: 5,
-    image: '/images/products/f6.jpg',
+    image: '../images/products/f6.jpg',
   },
   {
     id: 107,
@@ -54,7 +54,7 @@ export const featuredProducts = [
     name: 'Beige Casual Trousers',
     price: 88,
     rating: 5,
-    image: '/images/products/f7.jpg',
+    image: '../images/products/f7.jpg',
   },
   {
     id: 108,
@@ -62,6 +62,6 @@ export const featuredProducts = [
     name: 'Stylish Cat Blouse',
     price: 68,
     rating: 5,
-    image: '/images/products/f8.jpg',
+    image: '../images/products/f8.jpg',
   },
 ];
