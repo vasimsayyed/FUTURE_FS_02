@@ -13,6 +13,7 @@ import ContactPage from './pages/ContactPage';
 import NewsletterSignup from './components/NewsletterSignup';
 import Footer from './components/Footer';
 
+
 function App() {
   return (
     // After

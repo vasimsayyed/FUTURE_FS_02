@@ -4,10 +4,4 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Add this code below */
-@layer base {
-  body {
-    background-image: url('https://res.cloudinary.com/dsyln8jyt/image/upload/v1716315513/cara-banners/body-bg_jctq1j.png');
-    background-repeat: repeat; /* This makes the pattern tile seamlessly */
-  }
-}
+ 

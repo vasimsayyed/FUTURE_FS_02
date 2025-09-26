@@ -29,7 +29,7 @@ export default function HeroSection() {
         {/* Right Image Area */}
         <div className="w-500px md:w-1/2 h-80 md:h-96 lg:h-[810px]">
           <img
-            src="/images/hero4.png" // Make sure this is hero4.jpg as in your uploaded file
+            src="./images/hero4.png" // Make sure this is hero4.jpg as in your uploaded file
             alt="Fashion model"
             // These classes are essential for the image to fill the container
             className="w-full h-full object-cover rounded-lg"

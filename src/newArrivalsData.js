@@ -6,7 +6,7 @@ export const newArrivals = [
     name: 'Light Blue Cotton Shirt',
     price: 85,
     rating: 5,
-    image: '/images/products/n1.jpg',
+    image: "/images/products/n2.jpg",
   },
   {
     id: 202,
