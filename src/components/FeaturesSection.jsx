@@ -4,37 +4,37 @@ import React from 'react';
 const features = [
   {
     title: 'Free Shipping',
-    image: '../images/features/f1.png',
+    image: './images/f1.png',
     bgColor: 'bg-pink-100',
     textColor: 'text-pink-800',
   },
   {
     title: 'Online Order',
-    image: '../images/features/f2.png',
+    image: './images/f2.png',
     bgColor: 'bg-green-100',
     textColor: 'text-green-800',
   },
   {
     title: 'Save Money',
-    image: '../images/features/f3.png',
+    image: './images/f3.png',
     bgColor: 'bg-blue-100',
     textColor: 'text-blue-800',
   },
   {
     title: 'Promotions',
-    image: '../images/features/f4.png',
+    image: './images/f4.png',
     bgColor: 'bg-purple-100',
     textColor: 'text-purple-800',
   },
   {
     title: 'Happy Sell',
-    image: '../images/features/f5.png',
+    image: './images/f5.png',
     bgColor: 'bg-indigo-100',
     textColor: 'text-indigo-800',
   },
   {
     title: 'F24/7 Support',
-    image: '../images/features/f6.png',
+    image: './images/f6.png',
     bgColor: 'bg-yellow-100',
     textColor: 'text-yellow-800',
   },

@@ -3,7 +3,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 // The background image includes the dark theme, patterns, and sunglasses
-const bannerImageUrl =  '../images/banner/b1.jpg';
+const bannerImageUrl =  './images/banner/b1.jpg';
 
 export default function CallToActionBanner() {
   return (
